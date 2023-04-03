@@ -35,7 +35,7 @@
             <div class="max-w-7xl mx-auto p-6 lg:p-8">
 
                 <div>
-                    <a href="{{ route('document.index') }}" style="border: 1px solid red;padding: 10px;">View Document</a>
+                    <a href="{{ route('document.index') }}" style="border: 1px solid red;padding: 10px;">Convert Document to PDF</a>
                     <a href="{{ route('document.create') }}" style="border: 1px solid red;padding: 10px;">Document List</a>
                     <a href="{{ route('file.index') }}" style="border: 1px solid red;padding: 10px;">Upload Document</a>
                 </div>
